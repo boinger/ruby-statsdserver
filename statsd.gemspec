@@ -26,4 +26,6 @@ Gem::Specification.new do |spec|
   spec.author = "Pete Fritchman"
   spec.email = "petef@databits.net"
   spec.homepage = "https://github.com/fetep/ruby-statsdserver"
+
+  spec.rubyforge_project = 'nowarning' ## fake rubyforge project to prevent build warning
 end
